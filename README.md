@@ -13,9 +13,7 @@ NVIDIA Container Toolkit (to allow Docker to access your GPU).
 Recent NVIDIA drivers installed on the host machine.
 
 📦 Getting Started
-
-Clone this repository:
-
+*Clone this repository:
 git clone https://github.com/your-username/llama-cpp-docker.git
 
 cd llama-cpp-docker
