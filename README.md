@@ -14,11 +14,9 @@ Recent NVIDIA drivers installed on the host machine.
 
 📦 Getting Started
 *Clone this repository:
-git clone https://github.com/your-username/llama-cpp-docker.git
-
-cd llama-cpp-docker
-
-Start the stack:
+*git clone https://github.com/your-username/llama-cpp-docker.git
+*cd llama-cpp-docker
+*Start the stack:
 
 docker compose up -d
 
